@@ -1,0 +1,42 @@
+body{
+    padding: 10px 50px;
+    background-color: black;
+    color: white;
+}
+h3{
+    margin-left: 34px;
+}
+.container{
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    border: 5px white;
+     padding: 30px;
+     margin-left: 20px;
+}
+input{
+    display: flex;
+    padding: 10px 20px ;
+    margin: 10px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    color:black;
+    background-color: white;
+    width: 130px;
+    border-radius: 0;
+}
+.head{
+    margin: 20px;
+    border: 5px white;
+}
+.success{
+    color: rgb(73, 214, 73);
+}
